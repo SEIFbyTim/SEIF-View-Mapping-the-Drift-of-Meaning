@@ -1,0 +1,16 @@
+#symbolic-dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Georgia', serif;
+}
+#symbolic-dashboard th, #symbolic-dashboard td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+#symbolic-dashboard th {
+    background: #f4f4f4;
+}
+#symbolic-dashboard tr:nth-child(even) {
+    background-color: #fafafa;
+}
